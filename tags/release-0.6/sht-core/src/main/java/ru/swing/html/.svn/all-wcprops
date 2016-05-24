@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html
+END
+ELUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/ELUtils.java
+END
+BeanUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/BeanUtils.java
+END
+HtmlTagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/HtmlTagFactory.java
+END
+TagVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/TagVisitor.java
+END
+LibraryRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/LibraryRegistry.java
+END
+DomModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/DomModel.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/Utils.java
+END
+UITagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/UITagFactory.java
+END
+Binder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/Binder.java
+END
+TagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/TagFactory.java
+END
+QueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/QueryResult.java
+END
+BorderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/BorderFactory.java
+END
+DomLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/DomLoader.java
+END
+ColorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/ColorFactory.java
+END
+DomConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/DomConverter.java
+END
+ModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/ModelElement.java
+END
+SwingTagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/SwingTagFactory.java
+END
+Bind.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/Bind.java
+END
+WrapperMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/WrapperMap.java
+END

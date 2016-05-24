@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/853/trunk/sht-core/src/test/java/ru/swing/html/tags
+END
+ImgTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/ImgTest.java
+END
+BodyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/BodyTest.java
+END
+TextAreaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/TextAreaTest.java
+END
+LabelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/LabelTest.java
+END
+PTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/439/trunk/sht-core/src/test/java/ru/swing/html/tags/PTest.java
+END
+InputTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/853/trunk/sht-core/src/test/java/ru/swing/html/tags/InputTest.java
+END
+SpanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/SpanTest.java
+END
+DivTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/604/trunk/sht-core/src/test/java/ru/swing/html/tags/DivTest.java
+END
+FormTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/FormTest.java
+END
+ObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/ObjectTest.java
+END
+TableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/633/trunk/sht-core/src/test/java/ru/swing/html/tags/TableTest.java
+END

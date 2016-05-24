@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/170/tags/release-0.3/src/main/java/ru/swing/html/layout
+END
+BorderLayoutSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/170/tags/release-0.3/src/main/java/ru/swing/html/layout/BorderLayoutSupport.java
+END
+AbsoluteLayoutSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/170/tags/release-0.3/src/main/java/ru/swing/html/layout/AbsoluteLayoutSupport.java
+END
+LayoutManagerSupportFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/170/tags/release-0.3/src/main/java/ru/swing/html/layout/LayoutManagerSupportFactory.java
+END
+SpanMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/170/tags/release-0.3/src/main/java/ru/swing/html/layout/SpanMap.java
+END
+CellSpan.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/170/tags/release-0.3/src/main/java/ru/swing/html/layout/CellSpan.java
+END
+TableLayoutSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/170/tags/release-0.3/src/main/java/ru/swing/html/layout/TableLayoutSupport.java
+END
+FlowLayoutSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/170/tags/release-0.3/src/main/java/ru/swing/html/layout/FlowLayoutSupport.java
+END
+BoxLayoutSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/170/tags/release-0.3/src/main/java/ru/swing/html/layout/BoxLayoutSupport.java
+END
+LayoutManagerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/170/tags/release-0.3/src/main/java/ru/swing/html/layout/LayoutManagerSupport.java
+END
+MigLayoutSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/170/tags/release-0.3/src/main/java/ru/swing/html/layout/MigLayoutSupport.java
+END

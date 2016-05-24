@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/event
+END
+ListSelectionDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/event/ListSelectionDelegator.java
+END
+MouseListenerClickDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/event/MouseListenerClickDelegator.java
+END
+TreeSelectionDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/event/TreeSelectionDelegator.java
+END
+ClickDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/event/ClickDelegator.java
+END
+ChangeDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/event/ChangeDelegator.java
+END
+BaseMouseListenerDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/event/BaseMouseListenerDelegator.java
+END
+BaseDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/event/BaseDelegator.java
+END
+DocumentDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/event/DocumentDelegator.java
+END

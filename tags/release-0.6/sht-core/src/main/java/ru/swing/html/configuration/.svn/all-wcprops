@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration
+END
+DefaultConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/DefaultConfiguration.java
+END
+ServiceLibraryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/ServiceLibraryLoader.java
+END
+ResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/ResourceLoader.java
+END
+MethodInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/MethodInvoker.java
+END
+AbstractLibraryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/AbstractLibraryLoader.java
+END
+AttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/AttributeParser.java
+END
+CachableResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/CachableResourceLoader.java
+END
+ClasspathResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/ClasspathResourceLoader.java
+END
+MethodResolverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/MethodResolverService.java
+END
+DefaultAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/DefaultAttributeParser.java
+END
+DefaultMethodResolverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/DefaultMethodResolverService.java
+END
+LibraryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/LibraryLoader.java
+END
+LayoutService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/LayoutService.java
+END
+DefaultLayoutService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/DefaultLayoutService.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/configuration/Configuration.java
+END

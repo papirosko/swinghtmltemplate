@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/resources
+END
+split.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/resources/split.html
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/resources/log4j.xml
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/resources/test.html
+END
+form.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/resources/form.html
+END

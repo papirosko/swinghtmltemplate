@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/605/trunk/sht-core/src/main/java/ru/swing/html/css
+END
+CssBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/605/trunk/sht-core/src/main/java/ru/swing/html/css/CssBlock.java
+END
+AttributeMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/530/trunk/sht-core/src/main/java/ru/swing/html/css/AttributeMatcher.java
+END
+SelectorTokensChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/530/trunk/sht-core/src/main/java/ru/swing/html/css/SelectorTokensChain.java
+END
+AttributeConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/286/trunk/sht-core/src/main/java/ru/swing/html/css/AttributeConstraint.java
+END
+StyleParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/530/trunk/sht-core/src/main/java/ru/swing/html/css/StyleParser.java
+END
+SelectorGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/605/trunk/sht-core/src/main/java/ru/swing/html/css/SelectorGroup.java
+END
+SelectorTokenRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/530/trunk/sht-core/src/main/java/ru/swing/html/css/SelectorTokenRelation.java
+END
+Selector.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/605/trunk/sht-core/src/main/java/ru/swing/html/css/Selector.java
+END
+SelectorToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/286/trunk/sht-core/src/main/java/ru/swing/html/css/SelectorToken.java
+END

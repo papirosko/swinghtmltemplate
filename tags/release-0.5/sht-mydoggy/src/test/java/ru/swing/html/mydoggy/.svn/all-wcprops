@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy
+END
+Example.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy/Example.java
+END
+MainWindowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy/MainWindowTest.java
+END
+ContentWindowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy/ContentWindowTest.java
+END
+MyDoggyTagFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy/MyDoggyTagFactoryTest.java
+END
+ToolWindowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy/ToolWindowTest.java
+END

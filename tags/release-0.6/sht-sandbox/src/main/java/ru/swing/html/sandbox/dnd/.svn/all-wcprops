@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/637/tags/release-0.6/sht-sandbox/src/main/java/ru/swing/html/sandbox/dnd
+END
+TagTransferDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/637/tags/release-0.6/sht-sandbox/src/main/java/ru/swing/html/sandbox/dnd/TagTransferDataProvider.java
+END
+TransferDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/637/tags/release-0.6/sht-sandbox/src/main/java/ru/swing/html/sandbox/dnd/TransferDataProvider.java
+END
+DropDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/637/tags/release-0.6/sht-sandbox/src/main/java/ru/swing/html/sandbox/dnd/DropDelegator.java
+END
+DropTargetAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/637/tags/release-0.6/sht-sandbox/src/main/java/ru/swing/html/sandbox/dnd/DropTargetAttributeParser.java
+END
+DragSourceAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/637/tags/release-0.6/sht-sandbox/src/main/java/ru/swing/html/sandbox/dnd/DragSourceAttributeParser.java
+END

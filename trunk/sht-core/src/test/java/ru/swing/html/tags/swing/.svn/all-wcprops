@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/851/trunk/sht-core/src/test/java/ru/swing/html/tags/swing
+END
+SpinnerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/458/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/SpinnerTest.java
+END
+ScrollTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/ScrollTest.java
+END
+SplitPaneTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/SplitPaneTest.java
+END
+DataTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/DataTableTest.java
+END
+SliderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/851/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/SliderTest.java
+END
+AttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/AttributeTest.java
+END
+MenuItemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/635/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/MenuItemTest.java
+END
+PopupMenuTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/847/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/PopupMenuTest.java
+END
+ComboboxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/629/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/ComboboxTest.java
+END
+TabsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/TabsTest.java
+END
+ListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/630/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/ListTest.java
+END
+ActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/631/trunk/sht-core/src/test/java/ru/swing/html/tags/swing/ActionTest.java
+END

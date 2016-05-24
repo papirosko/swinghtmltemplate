@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/68/tags/release-0.1/src/main/java/ru/swing/html/css
+END
+CssBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/68/tags/release-0.1/src/main/java/ru/swing/html/css/CssBlock.java
+END
+StyleParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/68/tags/release-0.1/src/main/java/ru/swing/html/css/StyleParser.java
+END
+Selector.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/68/tags/release-0.1/src/main/java/ru/swing/html/css/Selector.java
+END
+SelectorToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/68/tags/release-0.1/src/main/java/ru/swing/html/css/SelectorToken.java
+END

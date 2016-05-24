@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/builder
+END
+DomModelUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/builder/DomModelUtils.java
+END
+PreviewPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/builder/PreviewPanel.java
+END
+TagTreeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/builder/TagTreeRenderer.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/builder/Attribute.java
+END
+MainPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/builder/MainPanel.java
+END
+Builder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/builder/Builder.java
+END

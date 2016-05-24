@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/wizard
+END
+CreatePersonWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/wizard/CreatePersonWizard.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/wizard/Page.java
+END
+PersonPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/wizard/PersonPage.java
+END
+WizardPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/wizard/WizardPane.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/wizard/Person.java
+END
+LastPageNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/wizard/LastPageNotification.java
+END

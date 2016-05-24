@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy/imagebrowser
+END
+ImageListRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy/imagebrowser/ImageListRenderer.java
+END
+MainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy/imagebrowser/MainFrame.java
+END
+LazyMutableTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy/imagebrowser/LazyMutableTreeNode.java
+END
+FolderTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy/imagebrowser/FolderTreeNode.java
+END
+FolderTreeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/539/tags/release-0.5/sht-mydoggy/src/test/java/ru/swing/html/mydoggy/imagebrowser/FolderTreeRenderer.java
+END

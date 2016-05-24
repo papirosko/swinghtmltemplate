@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/539/tags/release-0.5/sht-core/src/test/java/ru/swing/html/tags/ui
+END
+ForEachTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/539/tags/release-0.5/sht-core/src/test/java/ru/swing/html/tags/ui/ForEachTest.java
+END
+LoadBundleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/539/tags/release-0.5/sht-core/src/test/java/ru/swing/html/tags/ui/LoadBundleTest.java
+END
+DefineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/539/tags/release-0.5/sht-core/src/test/java/ru/swing/html/tags/ui/DefineTest.java
+END
+SetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/539/tags/release-0.5/sht-core/src/test/java/ru/swing/html/tags/ui/SetTest.java
+END
+IfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/539/tags/release-0.5/sht-core/src/test/java/ru/swing/html/tags/ui/IfTest.java
+END
+ChooseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/539/tags/release-0.5/sht-core/src/test/java/ru/swing/html/tags/ui/ChooseTest.java
+END
+WhenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/539/tags/release-0.5/sht-core/src/test/java/ru/swing/html/tags/ui/WhenTest.java
+END
+IncludeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/539/tags/release-0.5/sht-core/src/test/java/ru/swing/html/tags/ui/IncludeTest.java
+END
+CompositionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/539/tags/release-0.5/sht-core/src/test/java/ru/swing/html/tags/ui/CompositionTest.java
+END
+InsertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/539/tags/release-0.5/sht-core/src/test/java/ru/swing/html/tags/ui/InsertTest.java
+END

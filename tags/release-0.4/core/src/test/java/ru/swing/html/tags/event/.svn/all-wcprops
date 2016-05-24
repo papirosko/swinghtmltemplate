@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/tags/event
+END
+BaseDelegatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/tags/event/BaseDelegatorTest.java
+END
+OnclickTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/tags/event/OnclickTest.java
+END
+OnchangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/tags/event/OnchangeTest.java
+END

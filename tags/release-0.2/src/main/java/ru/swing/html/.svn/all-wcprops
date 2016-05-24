@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/Utils.java
+END
+DomModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/DomModel.java
+END
+TagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/TagFactory.java
+END
+Binder.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/Binder.java
+END
+BorderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/BorderFactory.java
+END
+DomLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/DomLoader.java
+END
+ColorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/ColorFactory.java
+END
+DomConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/DomConverter.java
+END
+HtmlTagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/HtmlTagFactory.java
+END
+SwingTagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/SwingTagFactory.java
+END
+Bind.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/Bind.java
+END
+LibraryRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/115/tags/release-0.2/src/main/java/ru/swing/html/LibraryRegistry.java
+END

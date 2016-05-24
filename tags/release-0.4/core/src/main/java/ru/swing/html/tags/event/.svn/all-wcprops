@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/tags/event
+END
+TreeSelectionDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/tags/event/TreeSelectionDelegator.java
+END
+ClickDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/tags/event/ClickDelegator.java
+END
+BaseDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/tags/event/BaseDelegator.java
+END
+DocumentDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/269/tags/release-0.4/core/src/main/java/ru/swing/html/tags/event/DocumentDelegator.java
+END

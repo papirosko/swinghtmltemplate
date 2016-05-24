@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/633/trunk/sht-core/src/test/java/ru/swing/html/layout
+END
+BorderLayoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/layout/BorderLayoutTest.java
+END
+AbsoluteLayoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/layout/AbsoluteLayoutTest.java
+END
+TableLayoutSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/633/trunk/sht-core/src/test/java/ru/swing/html/layout/TableLayoutSupportTest.java
+END
+CardLayoutSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/619/trunk/sht-core/src/test/java/ru/swing/html/layout/CardLayoutSupportTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/tags/ui
+END
+DefineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/tags/ui/DefineTest.java
+END
+IncludeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/tags/ui/IncludeTest.java
+END
+CompositionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/tags/ui/CompositionTest.java
+END
+InsertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/tags/ui/InsertTest.java
+END

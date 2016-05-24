@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/binding
+END
+SpinnerBindingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/binding/SpinnerBindingTest.java
+END
+InputBindingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/binding/InputBindingTest.java
+END
+BeterBeansBindingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/binding/BeterBeansBindingTest.java
+END
+ModelElementBindingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/binding/ModelElementBindingTest.java
+END
+TextAreaBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/269/tags/release-0.4/core/src/test/java/ru/swing/html/binding/TextAreaBinding.java
+END

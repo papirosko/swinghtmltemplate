@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/utils
+END
+TextAreaEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/utils/TextAreaEditor.java
+END
+SpinnerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/utils/SpinnerEditor.java
+END
+BooleanRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/utils/BooleanRenderer.java
+END
+BooleanEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/utils/BooleanEditor.java
+END
+ColorTableCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/utils/ColorTableCellEditor.java
+END
+ColorTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/test/java/ru/swing/html/example/utils/ColorTableCellRenderer.java
+END

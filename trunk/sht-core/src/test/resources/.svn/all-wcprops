@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/854/trunk/sht-core/src/test/resources
+END
+split.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/286/trunk/sht-core/src/test/resources/split.html
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/286/trunk/sht-core/src/test/resources/log4j.xml
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/286/trunk/sht-core/src/test/resources/test.html
+END
+form.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/286/trunk/sht-core/src/test/resources/form.html
+END

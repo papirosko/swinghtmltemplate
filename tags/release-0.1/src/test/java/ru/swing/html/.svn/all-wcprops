@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/68/tags/release-0.1/src/test/java/ru/swing/html
+END
+BorderFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/68/tags/release-0.1/src/test/java/ru/swing/html/BorderFactoryTest.java
+END
+ColorFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/68/tags/release-0.1/src/test/java/ru/swing/html/ColorFactoryTest.java
+END
+DomConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/68/tags/release-0.1/src/test/java/ru/swing/html/DomConverterTest.java
+END
+BorderLayoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/68/tags/release-0.1/src/test/java/ru/swing/html/BorderLayoutTest.java
+END
+UnknownTagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/68/tags/release-0.1/src/test/java/ru/swing/html/UnknownTagTest.java
+END
+UtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/68/tags/release-0.1/src/test/java/ru/swing/html/UtilsTest.java
+END

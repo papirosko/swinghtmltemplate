@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/855/trunk/sht-core/src/main/java/ru/swing/html/configuration
+END
+LibraryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/459/trunk/sht-core/src/main/java/ru/swing/html/configuration/LibraryLoader.java
+END
+LayoutService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/604/trunk/sht-core/src/main/java/ru/swing/html/configuration/LayoutService.java
+END
+DefaultLayoutService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/618/trunk/sht-core/src/main/java/ru/swing/html/configuration/DefaultLayoutService.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/621/trunk/sht-core/src/main/java/ru/swing/html/configuration/Configuration.java
+END
+DefaultConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/621/trunk/sht-core/src/main/java/ru/swing/html/configuration/DefaultConfiguration.java
+END
+ServiceLibraryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/459/trunk/sht-core/src/main/java/ru/swing/html/configuration/ServiceLibraryLoader.java
+END
+ResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/459/trunk/sht-core/src/main/java/ru/swing/html/configuration/ResourceLoader.java
+END
+MethodInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/626/trunk/sht-core/src/main/java/ru/swing/html/configuration/MethodInvoker.java
+END
+AbstractLibraryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/459/trunk/sht-core/src/main/java/ru/swing/html/configuration/AbstractLibraryLoader.java
+END
+AttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/527/trunk/sht-core/src/main/java/ru/swing/html/configuration/AttributeParser.java
+END
+CachableResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/459/trunk/sht-core/src/main/java/ru/swing/html/configuration/CachableResourceLoader.java
+END
+ClasspathResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/459/trunk/sht-core/src/main/java/ru/swing/html/configuration/ClasspathResourceLoader.java
+END
+MethodResolverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/621/trunk/sht-core/src/main/java/ru/swing/html/configuration/MethodResolverService.java
+END
+DefaultAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/855/trunk/sht-core/src/main/java/ru/swing/html/configuration/DefaultAttributeParser.java
+END
+DefaultMethodResolverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/626/trunk/sht-core/src/main/java/ru/swing/html/configuration/DefaultMethodResolverService.java
+END

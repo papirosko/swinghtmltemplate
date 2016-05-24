@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui
+END
+VarStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/VarStatus.java
+END
+If.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/If.java
+END
+Choose.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/Choose.java
+END
+When.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/When.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/Component.java
+END
+Include.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/Include.java
+END
+Composition.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/Composition.java
+END
+Insert.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/Insert.java
+END
+ForEach.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/ForEach.java
+END
+Otherwise.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/Otherwise.java
+END
+LoadBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/LoadBundle.java
+END
+Define.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/Define.java
+END
+Set.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/637/tags/release-0.6/sht-core/src/main/java/ru/swing/html/tags/ui/Set.java
+END

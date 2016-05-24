@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/617/trunk/sht-xhtmlrenderer/src/main/java/ru/swing/html/xhtmlrenderer
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/617/trunk/sht-xhtmlrenderer/src/main/java/ru/swing/html/xhtmlrenderer/Utils.java
+END
+SHTReplacedElementFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/617/trunk/sht-xhtmlrenderer/src/main/java/ru/swing/html/xhtmlrenderer/SHTReplacedElementFactory.java
+END
+XhtmlRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/609/trunk/sht-xhtmlrenderer/src/main/java/ru/swing/html/xhtmlrenderer/XhtmlRenderer.java
+END
+XhtmlRendererFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/605/trunk/sht-xhtmlrenderer/src/main/java/ru/swing/html/xhtmlrenderer/XhtmlRendererFactory.java
+END

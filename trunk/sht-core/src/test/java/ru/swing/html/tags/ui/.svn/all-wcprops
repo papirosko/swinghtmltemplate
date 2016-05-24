@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/608/trunk/sht-core/src/test/java/ru/swing/html/tags/ui
+END
+DefineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/ui/DefineTest.java
+END
+SetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/442/trunk/sht-core/src/test/java/ru/swing/html/tags/ui/SetTest.java
+END
+IfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/608/trunk/sht-core/src/test/java/ru/swing/html/tags/ui/IfTest.java
+END
+ChooseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/608/trunk/sht-core/src/test/java/ru/swing/html/tags/ui/ChooseTest.java
+END
+WhenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/443/trunk/sht-core/src/test/java/ru/swing/html/tags/ui/WhenTest.java
+END
+IncludeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/ui/IncludeTest.java
+END
+CompositionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/ui/CompositionTest.java
+END
+InsertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/286/trunk/sht-core/src/test/java/ru/swing/html/tags/ui/InsertTest.java
+END
+ForEachTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/608/trunk/sht-core/src/test/java/ru/swing/html/tags/ui/ForEachTest.java
+END
+LoadBundleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/528/trunk/sht-core/src/test/java/ru/swing/html/tags/ui/LoadBundleTest.java
+END
